@@ -1,2 +1,2 @@
-# vent-Dispatcher-Service
+# Event-Dispatcher-Service
 Angular event Dispatcher Service
